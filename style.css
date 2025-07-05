@@ -1,0 +1,50 @@
+
+body{
+    background-image: linear-gradient(to bottom, #F2CB05, #F2EA72) ;
+    font-family: "Lexend Mega", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    -webkit-text-stroke-color: black;
+    
+}
+#perfil {
+    width: 150px; 
+    height: auto; 
+    border-radius: 50%;
+    margin:0 auto;
+    display: block;
+    box-shadow: 5px 2px black;
+    box-shadow: 2px 5px black;
+}
+h1, h2{
+    text-align: center;
+}
+.fundo{
+    border-radius: 20px;
+    background-color: #9980F2;
+    display: table;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px black;
+    overflow: hidden;
+    position: relative;
+}
+#fundo{
+    border-radius: 10px;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: 5px 10px black;
+    color: black;
+}
+#fundo-texto{
+    background-color: #80F2BD;
+    height: 200px;
+    border-radius: 15px;
+    box-shadow: 5px 10px black;
+}
+br{
+    display: block;
+    content: " ";
+    border-bottom: 10px solid transparent;
+}
